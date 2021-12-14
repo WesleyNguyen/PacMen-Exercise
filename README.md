@@ -5,6 +5,9 @@ How to run:
 1) Clone/download the files onto your computer.
 2) Double click on index.html
 
+Alternatively, you might be able to run it if you have proper permissions and can click this link:
+<a href="http://wesleynguyen.github.io/PacMen-Exercise">PacMen Exercise</a>
+
 Roadmap for future improvements:
 1) Potentially add ghosts to the screen
 2) Potentially add power pellets to the screen
